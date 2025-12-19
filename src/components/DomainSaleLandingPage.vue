@@ -25,7 +25,7 @@
 
           <div class="mb-4">
             <p class="text-lg font-medium text-gray-700 dark:text-gray-300">Fiyat:</p>
-            <p class="text-xl font-bold text-blue-500 dark:text-blue-400">₺15.000,00</p>
+            <p class="text-xl font-bold text-blue-500 dark:text-blue-400">₺80.000,00</p>
           </div>
 
           <div class="mb-4">
